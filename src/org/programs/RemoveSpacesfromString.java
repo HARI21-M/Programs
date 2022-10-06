@@ -11,7 +11,7 @@ public class RemoveSpacesfromString {
 
 		System.out.println(str2);
 
-		//2. remove spaces withoutreplaceAll() Method
+		//2. remove spaces withoutreplaceAll() Method..
 	     String str3 = "Saket Saurav        is an Autom ation Engi ne      er";
 	     
 	        char[] chars = str3.toCharArray();

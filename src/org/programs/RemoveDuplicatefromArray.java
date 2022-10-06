@@ -9,7 +9,7 @@ public class RemoveDuplicatefromArray {
 		
 		int a[] = {12,335,53,63,53,53,64,65};
 		
-		List<int[]> list = Arrays.asList(a);
+	
 		
 	}
 	
